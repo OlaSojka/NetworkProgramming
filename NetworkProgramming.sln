@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{9EF8909A-BF0F-4642-BB95-0E15E153683B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9951EEDF-6E9A-4CB4-8422-265AB664EB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF8909A-BF0F-4642-BB95-0E15E153683B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EF8909A-BF0F-4642-BB95-0E15E153683B}.Release|x86.ActiveCfg = Release|Any CPU
+		{9951EEDF-6E9A-4CB4-8422-265AB664EB44}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9951EEDF-6E9A-4CB4-8422-265AB664EB44}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
